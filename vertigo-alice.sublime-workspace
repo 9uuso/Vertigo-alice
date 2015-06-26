@@ -1,0 +1,905 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Con",
+				"ContentType	string ν"
+			],
+			[
+				"db",
+				"dbsource	*string ν"
+			],
+			[
+				"settings",
+				"settingssource	*string ν"
+			],
+			[
+				"Shou",
+				"ShouldEqual	func(actual interface{}, expected ...interface{}) string ν"
+			],
+			[
+				"Sess",
+				"SessionSetValue	 ƒ"
+			],
+			[
+				"M",
+				"Methods	*mux.Route ƒ"
+			],
+			[
+				"P",
+				"ParseForm	error ƒ"
+			],
+			[
+				"Ma",
+				"Markdown	bool ν"
+			],
+			[
+				"Pos",
+				"PostFormValue	string ƒ"
+			],
+			[
+				"V",
+				"Vertigo	struct ʈ"
+			],
+			[
+				"Se",
+				"Settings	*Vertigo ν"
+			],
+			[
+				"T",
+				"Title	string ν"
+			],
+			[
+				"Hand",
+				"Handle	*mux.Route ƒ"
+			],
+			[
+				"Session",
+				"SessionRedirect	struct ʈ"
+			],
+			[
+				"str",
+				"Strict2	http.Handler ƒ"
+			],
+			[
+				"con",
+				"ContentType	string ν"
+			],
+			[
+				"Han",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"Handler",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"H",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"myA",
+				"myAHandler	http.HandlerFunc ν"
+			],
+			[
+				"Stat",
+				"StatusUnauthorized	 Ɩ"
+			],
+			[
+				"sessi",
+				"SessionRedirect	struct ʈ"
+			],
+			[
+				"StatusFo",
+				"StatusFound	 Ɩ"
+			],
+			[
+				"Handle",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"Ha",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"r",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"G",
+				"GetDb	*gorm.DB ƒ"
+			],
+			[
+				"I",
+				"ID	int64 ν"
+			],
+			[
+				"ses",
+				"SessionSetValue	 ƒ"
+			],
+			[
+				"Sta",
+				"StatusText	string ƒ"
+			],
+			[
+				"StatusNot",
+				"StatusNotFound	 Ɩ"
+			],
+			[
+				"Statu",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"S",
+				"StatusOK	 Ɩ"
+			],
+			[
+				"Status",
+				"StatusInternalServerError	 Ɩ"
+			],
+			[
+				"in",
+				"initDB	*gorm.DB ƒ"
+			],
+			[
+				"f",
+				"feed	*feeds.Feed ν"
+			],
+			[
+				"StatusN",
+				"StatusUnauthorized	 Ɩ"
+			],
+			[
+				"re",
+				"Request	struct ʈ"
+			],
+			[
+				"Re",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"sess",
+				"session	*sessions.Session ν"
+			],
+			[
+				"U",
+				"UseHandler	 ƒ"
+			],
+			[
+				"Vertigo",
+				"VertigoContext	struct ʈ"
+			],
+			[
+				"Verti",
+				"VertigoContext	struct ʈ"
+			],
+			[
+				"N",
+				"Negroni	struct ʈ"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"ha",
+				"handleSuccessUpdate"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"upda",
+				"updateAlbum"
+			],
+			[
+				"alb",
+				"albumsFactory"
+			],
+			[
+				"albums",
+				"albumsCtrl"
+			],
+			[
+				"data",
+				"dataValue"
+			],
+			[
+				"image",
+				"imageSelected"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"directive"
+			],
+			[
+				"create",
+				"createAlbum"
+			],
+			[
+				"m",
+				"mAlbum	models.Album ν"
+			],
+			[
+				"p",
+				"privatekey	string ν"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"Typ",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"St",
+				"StructTag	string ʈ"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"albu",
+				"albumVars	AlbumVars ν"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"ima",
+				"imagetag	 ν"
+			],
+			[
+				"Print",
+				"Println	 ƒ"
+			],
+			[
+				"tag",
+				"taggedVars	TaggedVars ν"
+			],
+			[
+				"ta",
+				"tagVars	TagVars ν"
+			],
+			[
+				"Prin",
+				"Println	 ƒ"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"login",
+				"loginVars"
+			],
+			[
+				"Ima",
+				"ImageLink"
+			],
+			[
+				"Index",
+				"IndexVars"
+			],
+			[
+				"typ",
+				"typeField"
+			],
+			[
+				"val",
+				"valField"
+			],
+			[
+				"ty",
+				"typeField"
+			],
+			[
+				"u",
+				"user"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "page.go",
+			"settings":
+			{
+				"buffer_size": 137,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"fmt",
+				"GoSublime: Fmt the current file (without saving it)"
+			],
+			[
+				"git add ",
+				"Git: Quick Add"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Checkout"
+			],
+			[
+				"git branc",
+				"Git: Checkout New Branch"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 101.0,
+		"history":
+		[
+			"goimports",
+			"fmt",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/go/src/github.com/jayrox/learnalice"
+	],
+	"file_history":
+	[
+		"/C/dev/go/src/github.com/jayrox/learnalice/misc.go",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/dev/go/src/github.com/jayrox/learnalice/session.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/main_test.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/users.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/main.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/strict.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/settings.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/vertigo_bindings.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/user_bindings.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/runtest.bat",
+		"/C/dev/go/src/vertigo-master/main.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/posts.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/feeds.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/settings.json",
+		"/C/dev/go/src/github.com/jayrox/learnalice/middleware.go",
+		"/C/dev/go/src/vertigo-master/misc.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/templates/settings.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnalice/templates/user/index.tmpl",
+		"/C/dev/go/src/vertigo-master/users.go",
+		"/C/dev/go/src/github.com/jayrox/learnalice/templates/user/reset.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnalice/templates/user/recover.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnalice/templates/user/register.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnalice/templates/post/new.tmpl",
+		"/C/dev/go/src/vertigo-master/templates/settings.tmpl",
+		"/C/dev/go/src/vertigo-master/settings.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/server.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/middleware.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/settings.json",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/users.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/session.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/misc.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/posts.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/user/login.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/crypto.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/user/index.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/settings.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/search.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/post/new.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/post/edit.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/installation/wizard.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/error.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/user/register.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/post/display.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/home.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/layout.tmpl",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/feeds.go",
+		"/C/dev/go/src/vertigo-master/posts.go",
+		"/C/dev/go/src/vertigo.clean/posts.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/page.go",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/settings.go",
+		"/C/dev/go/src/vertigo.clean/users.go",
+		"/C/dev/go/src/vertigo.clean/main.go",
+		"/C/dev/go/src/vertigo.clean/misc.go",
+		"/C/dev/go/src/vertigo.clean/settings.go",
+		"/C/dev/go/src/vertigo/users.go",
+		"/C/dev/go/src/vertigo/posts.go",
+		"/C/dev/go/src/vertigo/main.go",
+		"/C/dev/go/src/vertigo/misc.go",
+		"/C/dev/go/src/github.com/jayrox/learndocker/server.go",
+		"/C/dev/go/src/github.com/jayrox/learndocker/Dockerfile",
+		"/C/dev/go/src/github.com/jayrox/learnnegroni/templates/example.tmpl",
+		"/C/Users/User/Desktop/filebot.movies.txt",
+		"/C/dev/vertigo/misc.go",
+		"/C/dev/vertigo/feeds.go",
+		"/C/dev/vertigo/main.go",
+		"/C/dev/vertigo/app.json",
+		"/C/dev/vertigo/posts.go",
+		"/C/Users/User/Desktop/gofs.go",
+		"/C/dev/go/src/gofileenc/server.go",
+		"/C/dev/go/src/vertigo/main.go-bak",
+		"/C/dev/go/src/vertigo/page.go",
+		"/C/dev/go/src/vertigo/main2.go",
+		"/C/dev/go/src/pixelrelay/.gitignore",
+		"/C/dev/go/src/pixelrelay/utils/verify.go",
+		"/C/dev/go/src/pixelrelay/controllers/upload.go",
+		"/C/dev/go/src/pixelrelay/test/hash.go",
+		"/C/dev/go/src/pixelrelay/models/hashid.go",
+		"/C/Users/User/Downloads/download",
+		"/C/dev/go/src/gopixelrelay/controllers/upload.go",
+		"/C/dev/go/src/gopixelrelay/controllers/thumb.go",
+		"/C/dev/go/src/gopixelrelay/controllers/tags.go",
+		"/C/dev/go/src/gopixelrelay/controllers/tagimage.go",
+		"/C/dev/go/src/gopixelrelay/controllers/setup.go",
+		"/C/dev/go/src/gopixelrelay/controllers/tagged.go",
+		"/C/dev/go/src/gopixelrelay/controllers/qr.go",
+		"/C/dev/go/src/gopixelrelay/controllers/profile.go",
+		"/C/dev/go/src/gopixelrelay/controllers/login.go",
+		"/C/dev/go/src/gopixelrelay/controllers/notfound.go",
+		"/C/dev/go/src/gopixelrelay/controllers/index.go",
+		"/C/dev/go/src/gopixelrelay/controllers/imagetrash.go",
+		"/C/dev/go/src/gopixelrelay/controllers/imagerecover.go",
+		"/C/dev/go/src/gopixelrelay/controllers/imagepage.go",
+		"/C/dev/go/src/gopixelrelay/controllers/imagemodified.go",
+		"/C/dev/go/src/gopixelrelay/controllers/image.go",
+		"/C/dev/go/src/gopixelrelay/controllers/albumupdate.go",
+		"/C/dev/go/src/gopixelrelay/controllers/albums.go",
+		"/C/dev/go/src/gopixelrelay/controllers/albumrecover.go",
+		"/C/dev/go/src/gopixelrelay/controllers/albumprivate.go",
+		"/C/dev/go/src/gopixelrelay/controllers/albumdelete.go",
+		"/C/dev/go/src/gopixelrelay/controllers/albummove.go",
+		"/C/dev/go/src/gopixelrelay/controllers/albumcreate.go",
+		"/C/dev/go/src/gopixelrelay/controllers/account.go",
+		"/C/dev/go/src/gopixelrelay/controllers/album.go",
+		"/C/dev/go/src/gopixelrelay/server.go",
+		"/C/dev/gopixelrelay/server.go",
+		"/C/dev/gofileenc/enc/enc.go",
+		"/C/dev/gopixelrelay/pixelrelay.json",
+		"/C/dev/gopixelrelay/controllers/login.go",
+		"/C/dev/gopixelrelay/controllers/upload.go",
+		"/C/dev/gofileenc/server.go",
+		"/C/dev/gopixelrelay/pixelrelay.yaml",
+		"/C/dev/gopixelrelay/controllers/setup.go",
+		"/C/dev/gopixelrelay/controllers/thumb.go",
+		"/C/dev/gopixelrelay/controllers/tags.go",
+		"/C/dev/gopixelrelay/controllers/tagimage.go",
+		"/C/dev/gopixelrelay/controllers/tagged.go",
+		"/C/dev/gopixelrelay/controllers/qr.go",
+		"/C/dev/gopixelrelay/controllers/profile.go",
+		"/C/dev/gopixelrelay/controllers/notfound.go",
+		"/C/dev/gopixelrelay/controllers/index.go",
+		"/C/dev/gopixelrelay/controllers/imagetrash.go",
+		"/C/dev/gopixelrelay/controllers/imagerecover.go",
+		"/C/dev/gopixelrelay/controllers/imagepage.go",
+		"/C/dev/gopixelrelay/controllers/imagemodified.go",
+		"/C/dev/gopixelrelay/controllers/image.go"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\dev\\go\\src\\github.com\\jayrox\\learnalice",
+			"C:\\dev\\go\\src\\github.com\\jayrox\\learnnegroni\\templates,C:\\dev\\go\\src\\github.com\\jayrox\\learnnegroni",
+			"C:\\dev\\go\\src\\github.com\\jayrox\\learnnegroni\\templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getbye",
+			"user loing u",
+			"getbyemai",
+			"sessionredirect",
+			"logout",
+			"TestUserLogout",
+			"createuser",
+			"log\"",
+			"log",
+			"log.",
+			"log",
+			"json.unmar",
+			"Juuso's",
+			"driver",
+			"vertigo.db",
+			"postNew",
+			"readuser user",
+			"ln(err",
+			"Get(",
+			"Get",
+			"ln(err",
+			"(err",
+			"err",
+			"not found",
+			"sessioncookie ",
+			"\"user\"",
+			"malformedsessioncookie",
+			"first run",
+			"first",
+			"protectedpage",
+			"update(",
+			"GetByEmail",
+			"getbyemail",
+			"driver",
+			"get(",
+			"readposts",
+			".",
+			"settings",
+			"ReadSettings",
+			"settings",
+			"insert",
+			"protec",
+			"protect",
+			"settings",
+			"public",
+			"logout",
+			"db := GetDb(r)",
+			"getbyemail(",
+			"getbyemail",
+			"login(",
+			"SessionSetValue(w, r, \"user\",",
+			"SessionSetValue(w, r, \"user\", user.ID)",
+			"login(",
+			"login",
+			"getdb",
+			"}}",
+			"{{",
+			"entry",
+			"Update(",
+			"store",
+			"params",
+			"res.",
+			"4",
+			"res.",
+			"res.HTML(404",
+			"res.HTML(401",
+			"res.JSON(401",
+			"401",
+			"302",
+			"res.Redirect(",
+			"res.HTML(403",
+			"res.JSON(403",
+			"res.HTML(500",
+			"res.JSON(404",
+			"res.JSON(400",
+			"rends.JSON",
+			"res.HTML(200",
+			"res.JSON(200",
+			"res.JSON(500",
+			"(db)",
+			"update",
+			"root",
+			"Insert",
+			"insert",
+			"templates",
+			"update(",
+			"Get(",
+			"getall",
+			"getal",
+			"insert",
+			"Insert(",
+			"insert",
+			"jwd",
+			"error.",
+			"res.Redirect",
+			"res.",
+			"res.HTML",
+			"res.JSON",
+			"406",
+			"200",
+			"500",
+			"log",
+			"gorm",
+			"form",
+			"gorm",
+			"request",
+			"response",
+			"/:",
+			":",
+			":recovery",
+			":id",
+			":slug",
+			"martini",
+			"strict",
+			"NewServer",
+			"\"./",
+			"\"pixelrelay/",
+			"join",
+			"time.Now().Unix()",
+			"\"",
+			"albumMoveShower",
+			"border: 1px solid",
+			"#",
+			"selected",
+			"albumsController",
+			"'c",
+			"c ",
+			"watch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ]}",
+			"{[ ",
+			"rend.HTML(w, http.StatusNotFound",
+			"rend.HTML(w, http.StatusUnauthorized",
+			"rend.JSON(w, http.StatusUnauthorized",
+			"http.StatusFound",
+			"http.Redirect(w, r, ",
+			"rend.HTML(w, http.StatusForbidden",
+			"rend.JSON(w, http.StatusForbidden",
+			"rend.JSON(w, http.StatusInternalServerError",
+			"rend.JSON(w, http.StatusNotFound",
+			"rend.JSON(w, http.StatusBadRequest",
+			"rend.JSON",
+			"rend.HTML(w, http.StatusOK",
+			"rend.JSON(w, http.StatusOK",
+			"rends.JSON(w, http.StatusInternalServerError",
+			"rend.Redirect",
+			"rend.HTML",
+			"rend.JSON",
+			"{recovery}",
+			"{id}",
+			"{slug}",
+			"\"pixelrelay/",
+			"\"./",
+			"'",
+			"   ",
+			"log.Printf",
+			"log.Println"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\dev\\go\\src\\github.com\\jayrox\\learnalice"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"static\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
